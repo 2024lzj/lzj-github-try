@@ -1,2 +1,3 @@
 try to use github
-also include some notes about embedded system
+
+and include some notes about embedded system
